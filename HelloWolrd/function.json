@@ -13,5 +13,5 @@
       "name": "res"
     }
   ],
-  "scriptFile": "../dist/pdf-merge/index.js"
+  "scriptFile": "../dist/HelloWolrd/index.js"
 }
